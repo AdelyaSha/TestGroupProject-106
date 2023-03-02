@@ -12,5 +12,8 @@ namespace TestGroupProject_106
         {
             return "Hello there!";
         }
+
+        public Class1(int i) { }
+        
     }
 }
